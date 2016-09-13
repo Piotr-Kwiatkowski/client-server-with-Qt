@@ -7,6 +7,8 @@ Test project for learning purposes.
 **client.exe** - client in cmd window  
 **clientQt.exe** - client in Qt window  
 
-
 ## Installation
-To be added.
+To be added.  
+
+## Motivation
+Main goal of this project is to create client-server application where client can be used via console and Qt window simultaneously.  
