@@ -8,7 +8,9 @@ Test project for learning purposes.
 **clientQt.exe** - client in Qt window  
 
 ## Code Example
-'''sample code here'''
+```
+sample code here
+```
 
 ## Installation
 To be added.  
