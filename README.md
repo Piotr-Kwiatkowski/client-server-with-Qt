@@ -7,6 +7,9 @@ Test project for learning purposes.
 **client.exe** - client in cmd window  
 **clientQt.exe** - client in Qt window  
 
+## Code Example
+'''sample code here'''
+
 ## Installation
 To be added.  
 
